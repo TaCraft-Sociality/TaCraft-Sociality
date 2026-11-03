@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TaCraft-Sociality/TaCraft-Sociality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm TaCraft-Sociality
 
-Here are some ideas to get you started:
+**Open-source developer · Building things at TaCraft-Social-Guild**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img height="180em" src="https://github-stats-extended.vercel.app/api?username=TaCraft-Sociality&rank_icon=github&show_icons=true&include_all_commits=true&theme_light=light_github&theme_dark=dark_github&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=TaCraft-Sociality&layout=compact&langs_count=12&theme_light=light_github&theme_dark=dark_github&hide_border=true&bg_color=00000000&title_color=58A6FF" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <sub>Primary languages: Java · PHP · TypeScript · C#</sub>
+</div>
